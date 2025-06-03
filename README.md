@@ -1,17 +1,20 @@
-# stack_container
+# stack + container
 
-A new Flutter project.
+A new Flutter project app that implement a use case of stack and containers (using a profile Avater as example).
 
-## Getting Started
+## How to Run
+1. Clone the repository by running the command, "git clone https://github.com/Nmesoma-solomon-peter/n.peter_WidgetPresentation.git" 
+2. cd n.peter_WidgetPresentation
+3. run flutter pub get
+4. flutter run
+ If you are making use of the andriod studio, You can run by simply clicking on the run button
 
-This project is a starting point for a Flutter application.
+## Attributes
+- `Children`: The is set the widgets that should be stacked in a first to bottom order or First in Last out
+- `raduis`: This sets the size of the CircleAvatar widget
+- `BackgroundImage`: This is used to set the image to be display on the Circle Avatar as a background image. Just like your profile pictures would look on your socials
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
+https://docs.google.com/document/d/1l5ZOyfFNckutMqxeevVN6SlBjToOGGPbiOlOeGpdmsg/edit?usp=sharing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # n.peter_WidgetPresentation
